@@ -5,3 +5,7 @@ The HuggingFace Link for the project is:
 https://huggingface.co/spaces/thesurveycorps/transcriber
 
 The code in the repo you can see how it is built.
+
+To run on local env:
+first run requirements.txt
+then run python app.py
