@@ -7,5 +7,6 @@ https://huggingface.co/spaces/thesurveycorps/transcriber
 The code in the repo you can see how it is built.
 
 To run on local env:
-first run requirements.txt
-then run python app.py
+
+1) first run requirements.txt
+2) then run python app.py
